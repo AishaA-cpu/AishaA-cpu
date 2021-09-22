@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AishaA-cpu
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Python, C#, React
+- 🌱 I’m currently learning Python, JavaScript, C#, React
 - 💞️ I’m looking to collaborate on opensource projects for beginners
 - 📫 How to reach me ...
 
