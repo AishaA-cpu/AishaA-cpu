@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AishaA-cpu
-- 👀 I’m interested in Full stack development
+- 👀 Full Stack Engineer
 - 🌱 I’m currently learning Python, JavaScript, C#, React
 - 💞️ I’m looking to collaborate on opensource projects for beginners
 - 📫 How to reach me ...
